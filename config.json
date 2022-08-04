@@ -1,18 +1,18 @@
 {
-  "current_interview_date_str": "",
-  "enrollment_location_id": "",
+  "current_interview_date_str": "December 31, 2022",
+  "enrollment_location_id": "5445",
   "logfile": "",
 
-  "email_from": "",
-  "email_to": [""],
+  "email_from": "umderrick2@gmail.com",
+  "email_to": ["umderrick@gmail.com"],
   "email_server": "localhost",
   "email_port": 25,
-  "email_username": "",
-  "email_password": "",
+  "email_username": "umderrick@gmail.com",
+  "email_password": "zxcasdqwe12",
 
   "__comment": "Below are optional:",
   "use_gmail": true,
-  "gmail_password": "",
+  "gmail_password": "zxcasdqwe12",
   "no_email": false,
   "no_spamming": true,
 
