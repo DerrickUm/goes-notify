@@ -12,7 +12,7 @@
 
   "__comment": "Below are optional:",
   "use_gmail": true,
-  "gmail_password": "zxcasdqwe12",
+  "gmail_password": "",
   "no_email": false,
   "no_spamming": true,
 
